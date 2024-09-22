@@ -11,4 +11,6 @@ def mutation():
 
     new_str=''.join(n)
 
-    print(new_str)
+    return new_str
+v=mutation()
+print(v)

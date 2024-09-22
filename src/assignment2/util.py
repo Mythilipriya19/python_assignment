@@ -9,4 +9,6 @@ def highest():
         if i > first:
             runner=first
             first=i
-    print(" Runner:",runner )
+    return runner
+v=highest()
+print(v)

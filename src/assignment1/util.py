@@ -16,6 +16,6 @@ def average():
         total+=i
 
     avg=total/3
-    print(avg)
+    return avg
 
 
