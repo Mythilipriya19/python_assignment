@@ -1,4 +1,4 @@
-#finding the average
+#finding the averagee
 def average():
 
     student={"mythili":[10,20,30],
