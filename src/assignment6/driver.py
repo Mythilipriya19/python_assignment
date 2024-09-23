@@ -1,2 +1,4 @@
-from python_assignment.src.assignment5.util import dt
-dt()
+
+import util
+
+print(util.dt())
