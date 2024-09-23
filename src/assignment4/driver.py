@@ -1,3 +1,3 @@
-from python_assignment.src.assignment4.util import string_format
+from python_assignment.src.assignment4.util import str_format
 
-string_format()
+print(str_format(1))
