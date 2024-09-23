@@ -1,3 +1,3 @@
 import util
 
-util.mutation()
+print(util.mutation())
